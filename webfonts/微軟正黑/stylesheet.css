@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'msjh';
+	src: url('msjh.eot');
+	src: url('msjh.eot?#iefix') format('embedded-opentype'),
+		url('msjh.ttf') format('truetype'),
+		url('msjh.otf') format('opentype');
+}

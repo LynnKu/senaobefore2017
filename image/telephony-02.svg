@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="50px" height="70px" viewBox="0 0 50 70" style="enable-background:new 0 0 50 70;" xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="25.0005" y1="54.7344" x2="25.0005" y2="52.0215">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.82" style="stop-color:#8E9BAA"/>
+		<stop  offset="0.8924" style="stop-color:#808B98"/>
+		<stop  offset="1" style="stop-color:#656D75"/>
+	</linearGradient>
+	<rect x="5.4629" y="52.0215" style="opacity:0.3;fill:url(#SVGID_1_);" width="39.0742" height="2.7129"/>
+	<g>
+		<polyline style="opacity:0.75;fill:none;stroke:#0071BE;stroke-width:1.1;stroke-miterlimit:10;" points="5.4775,15.2661 
+			11.8086,15.2661 11.8086,52.0215 		"/>
+		<polyline style="opacity:0.75;fill:none;stroke:#0071BE;stroke-width:1.1;stroke-miterlimit:10;" points="12.2256,20.3735 
+			44.1094,20.3735 44.1094,33.3594 12.2256,33.3594 		"/>
+		
+			<circle style="opacity:0.75;fill:none;stroke:#0071BE;stroke-width:1.1;stroke-miterlimit:10;" cx="18.6523" cy="26.8662" r="3.1514"/>
+		
+			<line style="opacity:0.75;fill:none;stroke:#0071BE;stroke-width:1.1;stroke-miterlimit:10;" x1="27.959" y1="23.7148" x2="39.2383" y2="23.7148"/>
+		
+			<line style="opacity:0.75;fill:none;stroke:#0071BE;stroke-width:1.1;stroke-miterlimit:10;" x1="28.5684" y1="31.9326" x2="28.5684" y2="26.8662"/>
+		
+			<line style="opacity:0.75;fill:none;stroke:#0071BE;stroke-width:1.1;stroke-miterlimit:10;" x1="33.5938" y1="31.9326" x2="33.5938" y2="26.8662"/>
+		
+			<line style="opacity:0.75;fill:none;stroke:#0071BE;stroke-width:1.1;stroke-miterlimit:10;" x1="38.9805" y1="31.9326" x2="38.9805" y2="26.8662"/>
+		<polyline style="opacity:0.75;fill:none;stroke:#0071BE;stroke-width:1.1;stroke-miterlimit:10;" points="44.1094,33.7773 
+			44.1094,46.7637 12.2256,46.7637 		"/>
+		
+			<circle style="opacity:0.75;fill:none;stroke:#0071BE;stroke-width:1.1;stroke-miterlimit:10;" cx="18.6528" cy="39.8516" r="3.1519"/>
+		
+			<line style="opacity:0.75;fill:none;stroke:#0071BE;stroke-width:1.1;stroke-miterlimit:10;" x1="27.959" y1="36.7012" x2="39.2383" y2="36.7012"/>
+		
+			<line style="opacity:0.75;fill:none;stroke:#0071BE;stroke-width:1.1;stroke-miterlimit:10;" x1="28.5684" y1="44.918" x2="28.5684" y2="39.8516"/>
+		
+			<line style="opacity:0.75;fill:none;stroke:#0071BE;stroke-width:1.1;stroke-miterlimit:10;" x1="33.5938" y1="44.918" x2="33.5938" y2="39.8516"/>
+		
+			<line style="opacity:0.75;fill:none;stroke:#0071BE;stroke-width:1.1;stroke-miterlimit:10;" x1="38.9805" y1="44.918" x2="38.9805" y2="39.8516"/>
+	</g>
+</g>
+</svg>

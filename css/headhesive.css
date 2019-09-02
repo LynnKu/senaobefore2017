@@ -1,0 +1,85 @@
+/*----------------------------------------------------------------------------*\
+    Headhesive Specific Styles
+/*----------------------------------------------------------------------------*/
+
+/**
+ * Headhesive element clone
+ * > `clone` class for the cloned element:
+ *
+ |  var options = {
+ |      classes {
+ |          clone: 'banner--clone';
+ |      }
+ |  }
+ *
+ */
+.banner--clone {
+	/* Required styles */
+	position: fixed;
+	top: 0px;
+	z-index: 9999;
+	/* Additional styles */
+	max-width: 56%;
+	padding-left: 22%;
+	padding-right: 22%;
+	height: 82px;
+	background:rgba(240,245,255,0.95);
+	box-shadow: 0px 4px 6px -2px #CCC;
+	/* Translate -100% to move off screen */
+	-webkit-transform: translateY(-400%);
+	-ms-transform: translateY(-400%);
+	transform: translateY(-400%);
+	/* Animations */
+	-webkit-transition: all 600ms ease-in-out;
+	-moz-transition: all 600ms ease-in-out;
+	transition: all 600ms ease-in-out;
+}
+/**
+ * Headhesive stick
+ * > `stick` class for the cloned element:
+ *
+ |  var options = {
+ |      classes {
+ |          stick: 'banner--stick';
+ |      }
+ |  }
+ *
+ */
+.banner--stick {
+	/* Translate back to 0%; */
+	-webkit-transform: translateY(0%);
+	-ms-transform: translateY(0%);
+	transform: translateY(0%);
+}
+/**
+ * Headhesive unstick
+ * > `unstick` class for the cloned element:
+ *
+ |  var options = {
+ |      classes {
+ |          unstick: 'banner--unstick';
+ |      }
+ |  }
+ *
+ */
+.banner--unstick {
+/* Not required to use, but could be useful to have */
+}
+
+@media only screen and ( max-width: 1480px ) {
+.banner--clone {
+	/* Additional styles */
+	max-width: 80%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+}
+
+@media only screen and ( max-width: 1080px ) {
+.banner--clone {
+	/* Additional styles */
+	max-width: 100%;
+	padding-left: 0%;
+	padding-right: 0%;
+}
+}

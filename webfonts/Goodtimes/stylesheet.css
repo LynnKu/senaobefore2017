@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'GOODTIME';
+	src: url('GOODTIME.eot');
+	src: url('GOODTIME.eot?#iefix') format('embedded-opentype'),
+		url('GOODTIME.ttf') format('truetype'),
+		url('GOODTIME.woff') format('woff'),
+		url('GOODTIME.otf') format('opentype');
+}

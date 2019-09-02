@@ -1,0 +1,66 @@
+/* General Style */
+	#revenue {
+		margin: 10px 0 40px 0;
+		width: 640px;
+	}
+	#revenue ul, #revenue li {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	#revenue .tabs li {
+	    font-family: Arial, Sans-serif, Calibri;
+		float: left;
+		margin: 0 0 -1px 5px;
+		border: 1px solid #ddd;
+		background: #fafafa;
+		height: 32px;
+		cursor: pointer;
+		border-radius: 5px 5px 0 0;
+	}
+	#revenue .tabs li.active {
+        color: rgb(0,113,190);
+		background: #fff;
+		padding-bottom: 1px;
+		border-bottom: none;
+	}
+	#revenue .tabs li.hover{
+		background: rgb(230,230,230); 
+	}
+	#revenue .tabs span {
+		display: block;
+		float: left;
+		overflow: hidden;
+		padding: 7px 15px 5px 15px;
+	}
+	#revenue .tab_container {
+		clear: both;
+		border: 1px solid #DDD;
+		background: #fff;
+		overflow: hidden;
+		border-radius: 5px;
+	}
+	#revenue .tab_container ul {
+		position: relative;
+		height: 400px;
+		overflow: hidden;
+	}
+	#revenue .tab_container .tab_content li {
+		position: absolute;
+		width: 610px;
+		height: 100%;
+		padding: 15px;
+		margin-top: 10px;
+		background: #fff;
+	}
+	#revenue .tab_container .tab_content li img {
+		display: block;
+		float: left;
+		margin-right: 15px;
+	}
+	#revenue .tab_container .tab_content li h3 {
+		font-size: 22px;
+		line-height: 22px;
+		margin: 5px 0 15px;
+	}
+

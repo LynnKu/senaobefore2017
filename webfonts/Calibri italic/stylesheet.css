@@ -1,0 +1,7 @@
+@font-face {
+	font-family: calibrii;
+	src: url('calibrii.eot');
+	src: url('calibrii.eot?#iefix') format('embedded-opentype'),
+		 url('calibrii.ttf') format('truetype'),
+		 url('calibrii.woff') format('woff');
+}
